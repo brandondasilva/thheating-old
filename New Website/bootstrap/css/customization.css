@@ -1,0 +1,118 @@
+@import url(http://fontsgeek.com/fonts/Perpetua-Titling-MT-Bold);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+$font-family-sans-serif:                 'Open Sans', 'Perpetua', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$navbar-height:                          45px;
+$brand-primary:                          #953011;
+
+@import 'bootstrap';
+
+.center {
+    text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
+
+.textbody {
+	font: 16px 'Open Sans', sans-serif;
+}
+
+.textbody1 {
+	font: 16px Perpetua;
+}
+
+.textbody2 {
+	font: 14px 'Open Sans', sans-serif;
+}
+
+.textbody3 {
+	font: 12px 'Open Sans', sans-serif;
+}
+
+.textbody4 {
+	font: 10px 'Open Sans', sans-serif;
+}
+
+.textbody-large {
+	font: 35px 'Open Sans', sans-serif;
+}
+
+.textbody-large2 {
+	font: 30px 'Open Sans', sans-serif;
+}
+
+.panelheading {
+	font: 20px 'Open Sans', sans-serif;
+}
+
+.jumbotron {
+	background-color: #909090;
+	margin-bottom: 0px;
+}
+
+/* Home Page Carousel Styling */
+#myCarousel .item { height: 325px; }
+
+/* For portrait photos */
+#myCarousel2 .item { height: 700px; }
+
+/* For when there are multiple carousels */
+#myCarousel3 .item { height: 325px; }
+
+// Top sizing of carousel
+.carousel {
+	margin-top: 0px;
+}
+
+#slide1 {
+	background: url('carousel/m-carousel-1.png') center no-repeat;
+}
+
+#slide2 {
+	background: url('carousel/m-carousel-2.png') center no-repeat;
+}
+
+#slide3 {
+	background: url('carousel/m-carousel-3.jpg') center no-repeat;
+}
+
+.product-img img { max-width: 100% }
+.product-img2 img {max-height: 100% }
+
+.page-header {
+	font: 22px Perpetua;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+
+.navbar-default .navbar-nav {
+	font: 20px Perpetua;
+	//font-size: 20px;
+}
+
+.navbar-default .dropdown-menu {
+	font-size: 18px;
+}
+
+// For vertical spacing of elements
+.spacer5 {
+	height: 5px;
+}
+
+.spacer10 {
+	height: 10px;
+}
+
+.spacer15 {
+	height: 15px;
+}
+
+.spacer20 {
+	height: 20px;
+}
