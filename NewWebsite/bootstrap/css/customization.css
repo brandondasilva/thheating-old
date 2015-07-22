@@ -71,15 +71,15 @@ $brand-primary:                          #953011;
 }
 
 #slide1 {
-	background: url('carousel/m-carousel-1.png') center no-repeat;
+	background: url('/images/carousel/m-carousel-1.png') center no-repeat;
 }
 
 #slide2 {
-	background: url('carousel/m-carousel-2.png') center no-repeat;
+	background: url('/images/carousel/m-carousel-2.png') center no-repeat;
 }
 
 #slide3 {
-	background: url('carousel/m-carousel-3.jpg') center no-repeat;
+	background: url('/images/carousel/m-carousel-3.jpg') center no-repeat;
 }
 
 .product-img img { max-width: 100% }
@@ -90,6 +90,14 @@ $brand-primary:                          #953011;
 	padding-top: 15px;
 	padding-bottom: 0px;
 }
+
+.other-header {
+	font: 22px Perpetua;
+}
+
+/* Changing link color */
+a:link {color: #953011;}
+a:visited {color: #953011;}
 
 .navbar-default .navbar-nav {
 	font: 20px Perpetua;
