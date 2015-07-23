@@ -48,67 +48,68 @@
 		<div class="row">
 			<!-- CHRISVIEW -->
 			<div class="col-md-4">
-				<%= link_to products_residential_chrisview_path do %>
+				<a href="/products/residential/chrisview/">
 				<div class="thumbnail">
 					<!-- INSERT IMAGE HERE -->
-					<%= image_tag("residential/chrisview/chrisview.png")%>
+					<img src="/images/residential/chrisview/chrisview.png">
 				</div>
-				<% end %>
+				</a>
 			</div>
 
 			<!-- DEERFIELD -->
 			<div class="col-md-4">
-				<%= link_to products_residential_deerfield_path do %>
+				<a href="/products/residential/deerfield/">
 				<div class="thumbnail">
 					<!-- INSERT IMAGE HERE -->
-					<%= image_tag("residential/deerfield/deerfield.jpg")%>
+					<img src="/images/residential/deerfield/deerfield.jpg">
 				</div>
-				<% end %>
+				</a>
 			</div>
 
 			<!-- EASTFOREST -->
 			<div class="col-md-4">
-				<%= link_to products_residential_eastforest_path do %>
+				<a href="/products/residential/eastforest/">
 				<div class="thumbnail">
 					<!-- INSERT IMAGE HERE -->
-					<%= image_tag("residential/eastforest/eastforest.jpg")%>
+					<img src="/images/residential/eastforest/eastforest.jpg">
 				</div>
-				<% end %>
+				</a>
 			</div>
 		</div> <!-- END ROW -->
 
 		<div class="row">
 			<!-- EDCARA -->
 			<div class="col-md-4">
-				<%= link_to products_residential_edcara_path do %>
+				<a href="/products/residential/edcara/">
 				<div class="thumbnail">
 					<!-- INSERT IMAGE HERE -->
-					<%= image_tag("residential/edcara/edcara.jpg")%>
+					<img src="/images/residential/edcara/edcara.gif">
 				</div>
-				<% end %>
+				</a>
 			</div>
 
 			<!-- LAURENDALE -->
 			<div class="col-md-4">
-				<%= link_to products_other_laurendale_path do %>
+				<a href="/products/other/laurendale/">
 				<div class="thumbnail">
 					<!-- INSERT IMAGE HERE -->
-					<%= image_tag("other/laurendale/laurendale.jpg")%>
+					<img src="/images/other/laurendale/laurendale.jpg">
 				</div>
-				<% end %>
+				</a>
 			</div>
 
 			<!-- LIDAMAC -->
 			<div class="col-md-4">
-				<%= link_to products_other_lidamac_path do %>
+				<a href="/products/other/lidamac/">
 				<div class="thumbnail">
 					<!-- INSERT IMAGE HERE -->
-					<%= image_tag("other/lidamac/lidamac.png")%>
+					<img src="/images/other/lidamac/lidamac.png">
 				</div>
-				<% end %>
+				</a>
 			</div>
 		</div>
 	</div> <!-- End container -->
+
 	<?php include '../../layouts/footer.php'; ?>
 
 </body>

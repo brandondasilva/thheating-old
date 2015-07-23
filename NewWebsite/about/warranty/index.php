@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>T&amp;H Heating | The Team</title>
+	<title>T&amp;H Heating | Warranty</title>
 
 	<!-- IMPORTING STYLESHEETS -->
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css">
@@ -45,7 +45,7 @@
 			<div class="panel-heading">
 				<h3 class="panel-title">
 					<div class="panelheading">
-						T&H Furnace Troubleshooting Guide
+						T&amp;H Furnace Troubleshooting Guide
 					</div>
 				</h3>
 			</div> <!-- END PANEL HEADING -->

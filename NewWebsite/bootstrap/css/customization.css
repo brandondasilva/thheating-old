@@ -95,6 +95,10 @@ $brand-primary:                          #953011;
 	font: 22px Perpetua;
 }
 
+.other-header2 {
+	font: 24px 'Open Sans', sans-serif;
+}
+
 /* Changing link color */
 a:link {color: #953011;}
 a:visited {color: #953011;}
