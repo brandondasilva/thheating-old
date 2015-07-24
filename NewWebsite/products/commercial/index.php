@@ -5,6 +5,7 @@
 	<!-- IMPORTING STYLESHEETS -->
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/customization.css">
+	<link rel="shortcut icon" href="/images/favicon.ico" />
 </head>
 
 
@@ -74,7 +75,7 @@
 
 			<!-- LIDAMAC -->
 			<div class="col-md-4">
-				<a href="/products/other/lidimac/">
+				<a href="/products/other/lidamac/">
 				<div class="thumbnail">
 					<!-- INSERT IMAGE HERE -->
 					<img src="/images/other/lidamac/lidamac.png">
@@ -107,7 +108,7 @@
 		<div class="row">
 			<!-- LAURENDALE -->
 			<div class="col-md-4">
-				<a href="/products/other/laurendales/">
+				<a href="/products/other/laurendale/">
 				<div class="thumbnail">
 					<!-- INSERT IMAGE HERE -->
 					<img src="/images/other/laurendale/laurendale.jpg">

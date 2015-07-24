@@ -5,6 +5,7 @@
   <!-- IMPORTING STYLESHEETS -->
   <link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css">
   <link rel="stylesheet" type="text/css" href="/bootstrap/css/customization.css">
+  <link rel="shortcut icon" href="/images/favicon.ico" />
 </head>
 
 

@@ -5,6 +5,7 @@
 	<!-- IMPORTING STYLESHEETS -->
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/customization.css">
+	<link rel="shortcut icon" href="/images/favicon.ico" />
 </head>
 
 
@@ -38,7 +39,7 @@
 				<div class="col-md-8">
 					<div class="panel panel-default">
 	          <div class="panel-body">
-	          	<h3>Tony Da Silva - <a href="http://ca.linkedin.com/pub/tony-da-silva/97/a46/b88" target="_blank">LinkedIn</a></h3>
+	          	<div class="other-header2">Tony Da Silva - <a href="http://ca.linkedin.com/pub/tony-da-silva/97/a46/b88" target="_blank">LinkedIn</a></div>
 	          	<div class="textbody">
 	          		<em>Owner; President</em><br>
 	          		Since 1988, Tony Da Silva was operating as T&amp;H Heating and Air Conditioning for subcontracting. It wasn't until 2008 that he started to build T&amp;H into more of a concrete foundation for an effective, reliable company to flourish from. Tony, being an expert in the HVAC field, has strived to bring not only exceptional service and installation but also knowledge to homeowners and other contractors as well.
@@ -53,7 +54,7 @@
 				<div class="col-md-4">
 					<div class="panel panel-default">
 	          <div class="panel-body">
-	          	<h3>Rob Dietz</h3>
+	          	<div class="other-header2">Rob Dietz</div>
 	          	<div class="textbody">
 	          		<em>Subcontractor</em><br>
 	          		Since 2009, Rob has been subcontracting for T&amp;H and has proven to be a valuable resource for the company. His years of knowledge in the industry gives him the expertise to go into any job and get it done right. His contributions and loyalty to T&amp;H have made him an asset that the company cannot do without.
@@ -66,7 +67,7 @@
 				<div class="col-md-4">
 					<div class="panel panel-default">
 	          <div class="panel-body">
-	          	<h3>Jeff Markle</h3>
+	          	<div class="other-header2">Jeff Markle</div>
 	          	<div class="textbody">
 	          		<em>Subcontractor</em><br>
 	          		Since 2012, Jeff has been subcontracting for T&amp;H specializing in service and installations. His addition to the team has expanded our range of expertise and customer service to new levels that would not have been possible without his contributions.
@@ -79,11 +80,11 @@
 				<div class="col-md-4">
 					<div class="panel panel-default">
 	          <div class="panel-body">
-	          	<h3>Brandon Da Silva - <a href="http://www.linkedin.com/in/brandondasilva" target="_blank">LinkedIn</a></h3>
+	          	<div class="other-header2">Brandon Da Silva - <a href="http://www.linkedin.com/in/brandondasilva" target="_blank">LinkedIn</a></div>
 	          	<div class="textbody">
 	          		<em>Website Developer; Installation Assistant</em><br>
 	          		Brandon has been working for T&amp;H on jobs from helping out with installations to now designing and maintaining this website. An extra set of hands around any job site can make for a smoother, quicker experience not only for those working, but also for homeowners when the team is working on their home and Brandon has provided this throughout the years.
-	          		<hr><div class="textbody3">Currently in his last year studying Business Informatics at McMaster University.</div>
+	          		<hr><div class="textbody3">Currently graduated from Honours Business Informatics from McMaster University.</div>
 	          	</div>
 	          </div>
 	        </div>
@@ -98,7 +99,7 @@
 					<!-- INSERT PICTURE HERE -->
 					<img src="/images/team/tonyd-sm.png">
 					<div class="caption">
-						<h3>Tony Da Silva - <a href="http://ca.linkedin.com/pub/tony-da-silva/97/a46/b88" target="_blank">LinkedIn</a></h3>
+						<div class="other-header2">Tony Da Silva - <a href="http://ca.linkedin.com/pub/tony-da-silva/97/a46/b88" target="_blank">LinkedIn</a></div>
 						<div class="textbody3">
 							<em>Owner; President</em><br>
 	          		Since 1988, Tony Da Silva was operating as T&amp;H Heating and Air Conditioning for subcontracting. It wasn't until 2008 that he started to build T&amp;H into more of a concrete foundation for an effective, reliable company to flourish from. Tony, being an expert in the HVAC field, has strived to bring not only exceptional service and installation but also knowledge to homeowners and other contractors as well.
@@ -113,7 +114,7 @@
 			<div class="col-xs-12">
 				<div class="panel panel-default">
 	        <div class="panel-body">
-						<h3>Rob Dietz</h3>
+						<div class="other-header2">Rob Dietz</div>
 						<div class="textbody3">
 							<em>Subcontractor</em><br>
 	          		Since 2009, Rob has been subcontracting for T&amp;H and has proven to be a valuable resource for the company. His years of knowledge in the industry gives him the expertise to go into any job and get it done right. His contributions and loyalty to T&amp;H have made him an asset that the company cannot do without.
@@ -128,7 +129,7 @@
 			<div class="col-xs-12">
 				<div class="panel panel-default">
 	        <div class="panel-body">
-						<h3>Jeff Markle</h3>
+						<div class="other-header2">Jeff Markle</div>
 						<div class="textbody3">
 							<em>Subcontractor</em><br>
 	          		Since 2012, Jeff has been subcontracting for T&amp;H specializing in service and installations. His addition to the team has expanded our range of expertise and customer service to new levels that would not have been possible without his contributions.
@@ -143,13 +144,13 @@
 			<div class="col-xs-12">
 				<div class="panel panel-default">
 	        <div class="panel-body">
-						<h3>Brandon Da Silva - <a href="http://www.linkedin.com/in/brandondasilva" target="_blank">LinkedIn</a></h3>
+						<div class="other-header2">Brandon Da Silva - <a href="http://www.linkedin.com/in/brandondasilva" target="_blank">LinkedIn</a></div>
 						<div class="textbody3">
 							<em>Website Developer; Installation Assistant</em><br>
 	          		Brandon has been working for T&amp;H on jobs from helping out with installations to now designing and maintaining this website. An extra set of hands around any job site can make for a smoother, quicker experience not only for those working, but also for homeowners when the team is working on their home and Brandon has provided this throughout the years.
 						</div><hr>
 						<div class="textbody4">
-							Currently in his last year studying Business Informatics at McMaster University.
+							Currently graduated from Honours Business Informatics from McMaster University.
 						</div>
 					</div>
 				</div>

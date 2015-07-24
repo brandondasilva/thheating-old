@@ -5,6 +5,7 @@
 	<!-- IMPORTING STYLESHEETS -->
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/customization.css">
+	<link rel="shortcut icon" href="/images/favicon.ico" />
 </head>
 
 
@@ -29,7 +30,7 @@
 					<div class="panel-heading">
 						<h3 class="panel-title">
 							<div class="panelheading">
-								Welcome to the T&H Heating and Air Conditioning Inc. homepage.
+								Welcome to the T&amp;H Heating and Air Conditioning Inc. homepage.
 							</div>
 						</h3>
 					</div> <!-- End panel heading -->
