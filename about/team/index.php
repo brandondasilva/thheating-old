@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>T&amp;H Heating | The Team</title>
-
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	<!-- IMPORTING STYLESHEETS -->
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="/bootstrap/css/customization.css">
