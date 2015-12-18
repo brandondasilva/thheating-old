@@ -41,19 +41,20 @@
                 </tr>
                 <tr>
                   <td>Email:</td>
-                  <td align="right"><a href="mailto:t.h.heating@gmail.com">t.h.heating@gmail.com</a></td>
+                  <td align="right"><a href="mailto:tonydasilva@thheating.ca">tonydasilva@thheating.ca</a></td>
                 </tr>
                 <tr>
                   <td>Invoices:</td>
-                  <td align="right"><a href="mailto:thheating.invoices@gmail.com">thheating.invoices@gmail.com</a></td>
+                  <td align="right"><a href="mailto:thheating.invoices@gmail.com">invoices@thheating.ca</a></td>
                 </tr>
                 <tr>
                   <td valign="top">Address:</td>
-                  <td align="right">12 Foxmeadow Road<br>Cambridge ON<br>N1P 1H2</td>
+                  <td align="right">540 Thompson Drive<br>Cambridge ON<br>N1T 2K8</td>
                 </tr>
                 <tr>
                   <td valign="top">Online:</td>
                   <td align="right"><a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?">LinkedIn</a></td>
+                </tr>
                 </table> <!-- End table -->
               </font>
             </div> <!-- End text body -->
