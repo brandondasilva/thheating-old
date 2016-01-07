@@ -1,0 +1,29 @@
+body {
+	
+}
+
+/* Navbar styling */
+nav {
+	background-color: rgba(255,255,255,1);
+}
+
+nav ul li a {
+	color: black;
+}
+
+.dropdown-content li a {
+	color: black !important;
+	font-size: 1rem;
+}
+
+.desktop img {
+	height: 60px !important;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.mobile img {
+	height: 52px !important;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}

@@ -152,26 +152,6 @@
 				</div> <!-- END THUMBNAIL -->
 			</div>
 		</div> <!-- END ROW -->
-
-		<hr>
-		<!-- EQUIPMENT FOR SALE -->
-		<div class="col-md-10 col-md-offset-1">
-			<div class="panel panel-default">
-				<div class="panel-heading">
-					<h3 class="panel-title">
-						<div class="panelheading">
-							<a href="/equipment/forsale/">Equipment For Sale</a>
-						</div>
-					</h3>
-				</div> <!-- END PANEL HEADING -->
-
-		        <div class="panel-body">
-		        	<div class="textbody">
-		        		From HVAC equipment to office supplies, T&amp;H periodically has a variety of things for sale. Please visit our <a href="/equipment/forsale/">Equipment For Sale</a> page for more information and links to our ads on Kijiji.
-		        	</div>
-		        </div> <!-- END PANEL BODY -->
-		    </div> <!--	END PANEL -->
-		</div>
 	</div> <!-- End container -->
 
 	<?php include '../../layouts/footer.php'; ?>

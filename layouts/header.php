@@ -35,13 +35,7 @@
             <li><a href="/products/fabrication/">Sheet Metal Fabrication</a></li>
           </ul>
         </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Equipment<b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="/equipment/information/">Equipment Information</a></li>
-            <li><a href="/equipment/forsale/">Equipment For Sale</a></li>
-          </ul>
-        </li>
+        <li><a href="/equipment/information/">Equipment</a></li>
       </ul>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
