@@ -87,9 +87,10 @@
 							Monday - Friday<br>
 							8 am - 5 pm<br>
 							<br>
+							Email us at our service email (<a href="mailto:service@thheating.ca" target="_blank">service@thheating.ca</a>) for more information or inquiries.
+							<br>
 							<strong>*After Hours</strong><br>
 							Increased Rates<br>
-							<div class="textbody3"><a href="/contact/">Contact us</a> for more information.</div>
 						</div>
 					</div>
 				</div>
