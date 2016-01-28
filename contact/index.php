@@ -24,7 +24,7 @@
             There are multiple ways to get in contact with T&amp;H Heating. As shown here, we provide a conventional mailing address, a business phone, multiple email addresses tailored to your inquiries, as well as an online presence to communicate via social networks. Whichever means you choose, they are all provided below as well as an email form for easy messaging.<br><br>
             If you are inquiring about the sheet metal fabrication shop and custom fittings, visit the <a href="/products/fabrication/">Sheet Metal Fabrication</a> page for more information.<br>
             <br>
-            If you are inquiring about our service hours, visit the <a href="/products/service/">Service</a> page for more information.
+            If you are inquiring about our service hours, please visit the <a href="/products/service/">Service</a> page for more information.
           </div> <!-- End left panel body -->
         </div> <!-- End left panel -->
       </div> <!-- End left side -->
