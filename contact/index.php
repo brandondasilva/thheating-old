@@ -41,7 +41,7 @@
                 </tr>
                 <tr>
                   <td>Email:</td>
-                  <td align="right"><a href="mailto:tonydasilva@thheating.ca">tonydasilva@thheating.ca</a></td>
+                  <td align="right"><a href="mailto:sales@thheating.ca">sales@thheating.ca</a></td>
                 </tr>
                 <tr>
                   <td>Invoices:</td>
