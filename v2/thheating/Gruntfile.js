@@ -17,14 +17,14 @@ module.exports = function(grunt) {
         cwd: 'dev/js/controllers',
         src: ['*.js', '!*.min.js'],
         dest: 'public/javascripts/controllers',
-        ext: '.js'
+        ext: '.min.js'
       },
       directives: {
         expand: true,
         cwd: 'dev/js/directives',
         src: ['*.js', '!*.min.js'],
         dest: 'public/javascripts/models',
-        ext: '.js'
+        ext: '.min.js'
       }
     },
 

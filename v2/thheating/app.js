@@ -22,6 +22,9 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+// Set favicon
+app.use(favicon(path.join(__dirname,'public','images','favicon.ico')));
+
 app.use('/', routes);
 app.use('/users', users);
 
