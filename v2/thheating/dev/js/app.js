@@ -6,8 +6,8 @@ app.config([
   function($stateProvider, $urlRouterProvider) {
     $stateProvider
       .state('home', {
-        url: '/',
-        controller: 'HomeController'
+        url: '/'
+        // controller: 'HomeController'
       });
 
     $urlRouterProvider.otherwise('/');
