@@ -8,22 +8,8 @@ module.exports = function(grunt) {
       scripts: {
         expand: true,
         cwd: 'dev/js',
-        src: ['*.js', '!*.min.js'],
+        src: ['*.js', '**/*.js'],
         dest: '_assets-custom/js',
-        ext: '.min.js'
-      },
-      controllers: {
-        expand: true,
-        cwd: 'dev/js/controllers',
-        src: ['*.js', '!*.min.js'],
-        dest: '_assets-custom/js/controllers',
-        ext: '.min.js'
-      },
-      directives: {
-        expand: true,
-        cwd: 'dev/js/directives',
-        src: ['*.js', '!*.min.js'],
-        dest: '_assets-custom/js/models',
         ext: '.min.js'
       }
     },
