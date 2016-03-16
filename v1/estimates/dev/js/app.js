@@ -5,13 +5,9 @@ app.config([
   '$urlRouterProvider',
   function($stateProvider, $urlRouterProvider) {
     $stateProvider
-      .state('home', {
-        url: '/'
-        // controller: 'HomeController'
-      })
-      .state('login', {
+      .state('main', {
         url: '/',
-        templateUrl: 'views/login.html'
+        templateUrl: 'views/main.html'
       });
 
     $urlRouterProvider.otherwise('/');
