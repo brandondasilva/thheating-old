@@ -1,0 +1,23 @@
+@import 'elements/navbar';
+
+label {
+  font-size: 16px;
+  color: black !important;
+}
+
+input[type=text]:focus:not([readonly]) {
+  border-bottom: 1px solid #5E0400;
+  box-shadow: 0 1px 0 0 #5E0400;
+}
+
+md-input-container {
+  margin-bottom: 0px;
+}
+
+.md-datepicker-input-container {
+  border-bottom-style: none;
+}
+
+md-datepicker {
+  padding-bottom: 20px;
+}
