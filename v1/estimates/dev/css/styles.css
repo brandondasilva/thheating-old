@@ -7,6 +7,17 @@
   #navbar a {
     text-decoration: underline; }
 
+#runs-headings div {
+  position: relative; }
+  #runs-headings div:after {
+    content: "";
+    background: black;
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    height: 1px;
+    width: 90%; }
+
 label {
   font-size: 16px;
   color: black !important; }
