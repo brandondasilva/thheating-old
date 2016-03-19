@@ -21,6 +21,7 @@
     "serve-favicon": "~2.3.0"
   },
   "devDependencies": {
+    "angular-scroll": "^1.0.0",
     "grunt": "~0.4.5",
     "grunt-cli": "~0.1.13",
     "grunt-contrib-cssmin": "~0.14.0",
