@@ -33,25 +33,25 @@
 								<strong><em>Responsibilities:</em></strong><br>
 								<ul>
 									<li>Installation of sheet metal/ductwork in residential new home construction and custom home settings;</li>
-									<li>Installation of HVAC equipment such as furnaces, air conditioners, HRV’s, humidifiers and fireplaces;</li>
+									<li>Installation of HVAC equipment such as furnaces, air conditioners, HRV's, humidifiers and fireplaces;</li>
 									<li>Installation of gas piping and venting of furnaces, with applicable gas license (G1, G2);</li>
 									<li>Communicating project status/work progress, materials required and equipment issues to a Manager.</li>
 								</ul>
 
-								<p>The successful candidate must have the following <em>Qualifications and Skills</em>:</p>
+								<p>The successful candidate must have the following <strong><em>Qualifications and Skills</em></strong>:</p>
 
 								<strong><em>Qualifications:</em></strong><br>
 								Minimum of 2 to 5 years experience in the following:<br>
 								<ul>
 									<li>Installation of sheet metal/ductwork in RNC and custom homes;</li>
-									<li>Installation of furnaces, air conditioners, HRV’s, humidifiers and fireplaces;</li>
+									<li>Installation of furnaces, air conditioners, HRV's, humidifiers and fireplaces;</li>
 									<li>Installation of gas piping and venting of furnaces, with applicable gas license (G1, G2).</li>
 								</ul>
 
 								<strong><em>Skills:</em></strong><br>
 								<ul>
 									<li>Reading blueprints and construction drawings;</li>
-									<li>Understanding and interpreting technical and manufacturers’ manuals and instructions;</li>
+									<li>Understanding and interpreting technical and manufacturers' manuals and instructions;</li>
 									<li>Working both individually with limited supervision and collaboratively as a team member;</li>
 									<li>Giving attention to detail and following instructions/direction, as required;</li>
 									<li>Thinking critically in order to troubleshoot and effectively problem solve/make decisions;</li>
@@ -70,7 +70,7 @@
 
 								Please send updated resume to <a href="mailto:jobs@thheating.ca">jobs@thheating.ca</a>
 								<hr>
-								Apply on <a href=""><img src="/images/jobposting/indeed.png" /></a>.
+								Apply on <a href="http://goo.gl/TMLI7h" target="_blank"><img height="25px" src="/images/jobposting/indeed.png" /></a>.
 							</div>
 						</div> <!-- End panel body -->
 					</div> <!-- End panel -->
