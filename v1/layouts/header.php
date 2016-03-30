@@ -41,6 +41,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav navbar-right">
+        <li><a href="/jobpostings/">Job Postings <span class="badge">1</span></a></li>
         <li><a href="/contact/">Contact</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->

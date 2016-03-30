@@ -22,43 +22,55 @@
 						<div class="panel-heading">
 							<h3 class="panel-title">
 								<div class="panelheading">
-									HVAC/Sheet Metal/Gas Technician
+									Sheet Metal/Refrigeration Mechanic
 								</div>
 							</h3>
 						</div> <!-- End panel heading -->
 						<div class="panel-body">
 							<div class="textbody2">
-								T&amp;H Heating and Air Conditioning Inc. is a rapidly growing local HVAC company that is immediately seeking an experienced HVAC installer and/or licensed sheet metal mechanic to work on a sub-contract basis.<br><br>
+								Operating since 1988, T&amp;H Heating and Air Conditioning Inc. is an established HVAC company located in Cambridge, Ontario. Due to continued and rapid growth, there is an immediate opening for an experienced and licensed Sheet Metal/Refrigeration Mechanic, to work on piece work basis.<br><br>
 
-								<strong><em>Main duties include:</em></strong><br>
+								<strong><em>Responsibilities:</em></strong><br>
 								<ul>
-									<li>Installation of HVAC equipment such as furnaces (including gas and venting), air conditioners, HRVs, humidifiers and fireplaces</li>
-									<li>Installation of sheet metal/ductwork in residential and commercial settings</li>
-									<li>Troubleshoot, diagnose and repair HVAC equipment</li>
+									<li>Installation of sheet metal/ductwork in residential new home construction and custom home settings;</li>
+									<li>Installation of HVAC equipment such as furnaces, air conditioners, HRV’s, humidifiers and fireplaces;</li>
+									<li>Installation of gas piping and venting of furnaces, with applicable gas license (G1, G2);</li>
+									<li>Communicating project status/work progress, materials required and equipment issues to a Manager.</li>
 								</ul>
 
-								<strong><em>Skills required:</em></strong><br>
-								The successful candidate must:<br>
+								<p>The successful candidate must have the following <em>Qualifications and Skills</em>:</p>
+
+								<strong><em>Qualifications:</em></strong><br>
+								Minimum of 2 to 5 years experience in the following:<br>
 								<ul>
-									<li>have the ability to work both individually with limited supervision as well as be a team player</li>
-									<li>pay attention to detail and follow instructions/direction as required</li>
-									<li>be an excellent problem solving/decision making skills</li>
-									<li>be a critical thinker in order to troubleshoot and problem solve effectively</li>
-									<li>possess on-site customer service skills</li>
-									<li>have excellent time management skills</li>
-									<li>be self-motivated and honest</li>
+									<li>Installation of sheet metal/ductwork in RNC and custom homes;</li>
+									<li>Installation of furnaces, air conditioners, HRV’s, humidifiers and fireplaces;</li>
+									<li>Installation of gas piping and venting of furnaces, with applicable gas license (G1, G2).</li>
+								</ul>
+
+								<strong><em>Skills:</em></strong><br>
+								<ul>
+									<li>Reading blueprints and construction drawings;</li>
+									<li>Understanding and interpreting technical and manufacturers’ manuals and instructions;</li>
+									<li>Working both individually with limited supervision and collaboratively as a team member;</li>
+									<li>Giving attention to detail and following instructions/direction, as required;</li>
+									<li>Thinking critically in order to troubleshoot and effectively problem solve/make decisions;</li>
+									<li>Providing exceptional customer service skills;</li>
+									<li>Being self-motivated and trustworthy;</li>
+									<li>Willing and able to work in any seasonal conditions.</li>
 								</ul>
 
 								<strong><em>Requirements:</em></strong><br>
 								<ul>
-									<li>Must have all licenses, tickets, safety, etc.</li>
-									<li>Must have own tools and vehicle</li>
-									<li>Wage will be based on experience and is negotiable</li>
+									<li>Must have up-to-date licenses, i.e., Sheet Metal, Refrigeration, Gas License (G1, G2), Safety;</li>
+									<li>Must have own tools</li>
 								</ul>
-								
-								Please send updated resume with references to <a href="mailto:t.h.heating@gmail.com">t.h.heating@gmail.com</a>
-								<!--<hr>
-								This job posting can also be viewed <a href="" target="_blank">here</a>. -->
+
+								<p>Compensation will be commensurate with experience and is negotiable.</p>
+
+								Please send updated resume to <a href="mailto:jobs@thheating.ca">jobs@thheating.ca</a>
+								<hr>
+								Apply on <a href=""><img src="/images/jobposting/indeed.png" /></a>.
 							</div>
 						</div> <!-- End panel body -->
 					</div> <!-- End panel -->
