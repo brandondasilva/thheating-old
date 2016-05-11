@@ -19,21 +19,20 @@
 			<div class="textbody2">
 				<ul class="nav nav-tabs">
 					<li class="active"><a href="/about/">About</a></li>
-					<li><a href="/about/team/">The Team</a></li>
 					<li><a href="/about/warranty/">Warranty/Troubleshooting</a></li>
 				</ul>
 			</div>
 		</div>
 
 		<div class="row">
-			<div class="col-xs-12 col-md-4">
-				<div class="thumbnail">
+			<!-- <div class="col-xs-12 col-md-4">
+				<div class="thumbnail"> -->
 					<!-- PICTURE OF TONY D -->
-					<img src="/images/team/tonyd.png">
-				</div> <!-- END OF THUMBNAIL -->
-			</div> <!-- END OF LEFT COLUMN -->
+					<!-- <img src="/images/team/tonyd.png"> -->
+				<!-- </div> END OF THUMBNAIL -->
+			<!-- </div> END OF LEFT COLUMN -->
 
-			<div class="col-xs-12 col-md-8">
+			<div class="col-xs-12 col-md-10 col-md-offset-1">
 				<div class="panel panel-default">
           <div class="panel-body">
           	<div class="textbody">A letter from the President:</div><br>

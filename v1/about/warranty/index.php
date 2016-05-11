@@ -19,7 +19,6 @@
 			<div class="textbody2">
 				<ul class="nav nav-tabs">
 					<li><a href="/about/">About</a></li>
-					<li><a href="/about/team/">The Team</a></li>
 					<li class="active"><a href="/about/warranty/">Warranty/Troubleshooting</a></li>
 				</ul>
 			</div>
