@@ -41,7 +41,7 @@
 	        <div class="panel-body">
 	        	<div class="product-img">
 	        		<div class="center">
-								<img src="/images/products/sheetmetal.jpg">
+								<a href="http://totalductsolutions.ca" target="_blank"><img src="/images/products/tdsbanner.png" /></a>
 							</div>
 						</div>
 					</div>
@@ -56,15 +56,15 @@
 					<div class="panel-heading">
 						<h3 class="panel-title">
 							<div class="panelheading">
-								Sheet Metal Fabrication
+								<a href="http://totalductsolutions.ca" target="_blank">Total Duct Solutions</a> Sheet Metal Fabrication
 							</div>
 						</h3>
 					</div> <!-- End panel heading -->
 
 					<div class="panel-body">
 						<div class="textbody">
-							Our fully functioning sheet metal fabrication shop provides a full range of equipment (listed) capable of manufacturing any of your HVAC fitting needs. Our fabricators are fully licensed and their attention to detail ensures your fittings are done correctly.<br><br>
-							We offer a standard set of fittings that we manufacture on a regular basis but we are not limited to these standard fittings. <a href="/contact/">Contact us</a> for more information on custom fitting fabrication as well as price quotes and general information about the shop.
+							Our fully functioning sheet metal fabrication company, Total Duct Soutions, provides a full range of equipment (listed) capable of manufacturing any of your HVAC fitting needs. Our fabricators are fully licensed and their attention to detail ensures your fittings are done correctly.<br><br>
+							We offer a standard set of fittings that we manufacture on a regular basis but we are not limited to these standard fittings. Visit the <a href="http://totalductsolutions.ca" target="_blank">Total Duct Solutions website</a> for more information on custom fitting fabrication as well as price quotes and general information about the shop.
 						</div>
 					</div>
 				</div>
@@ -117,29 +117,6 @@
 							<br>
 							<a href="/contact/">Contact us</a> via email or phone for quotes on customs fittings.
 						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-		<hr>
-		<!-- Coming Soon - Sheet Metal Shop -->
-		<div class="row">
-			<div class="col-md-6 col-md-offset-3 col-xs-12">
-				<div class="panel panel-default">
-					<div class="panel-heading">
-						<h3 class="panel-title">
-							<div class="panelheading">
-								Coming Soon
-							</div>
-						</h3>
-					</div>
-
-					<!-- Panel body -->
-					<div class="panel-body">
-						<div class="textbody">
-							Currently T&amp;H offers sheet metal orders on a walk-in and paper-form basis. We are currently developing an online-based ordering system for external contractors to efficiently order all of their HVAC fittings.
-						</div> 
 					</div>
 				</div>
 			</div>
