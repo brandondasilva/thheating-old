@@ -7,7 +7,6 @@
 			<div class="textbody2">
 				<a href="/">Home</a><br>
 				<a href="/about/">About</a><br>
-				<a href="/about/team/">The Team</a><br>
 				<a href="/about/warranty/">Warranty/Troubleshooting</a><br>
 				<a href="/contact/">Contact</a><br>
 				<a href="/jobpostings/">Job Postings</a>
