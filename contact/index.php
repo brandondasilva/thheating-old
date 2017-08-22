@@ -49,9 +49,11 @@
                 </tr>
                 <tr>
                   <td valign="top">Online:</td>
-                  <td align="right"><a href="https://www.facebook.com/thheating/" target="_blank">Facebook</a></td>
-                  <td align="right"><a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?" target="_blank">LinkedIn</a></td>
-                  <td align="right"><a href="http:/www.twitter.com/thheating" target="_blank">Twitter</a></td>
+                  <td align="right">
+										<a href="https://www.facebook.com/thheating/" target="_blank">Facebook</a><br />
+										<a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?" target="_blank">LinkedIn</a><br />
+	                  <a href="http:/www.twitter.com/thheating" target="_blank">Twitter</a>
+									</td>
                 </tr>
                 </table> <!-- End table -->
               </font>
