@@ -38,7 +38,9 @@
 				Online
 			</div>
 			<div class="textbody2">
-				<a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?" target="_blank">LinkedIn</a>
+				<a href="https://www.facebook.com/thheating/" target="_blank">Facebook</a><br />
+				<a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?" target="_blank">LinkedIn</a><br />
+				<a href="http:/www.twitter.com/thheating" target="_blank">Twitter</a>
 			</div>
 		</div>
 		<div class="col-md-3 right">
