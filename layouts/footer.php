@@ -46,7 +46,7 @@
 				<img src="/images/logo/logo-sansbg.png" height="65px")><br>
 				T&amp;H Heating and Air Conditioning Inc.<br>
 				TSSA 000227277<br>
-				Copyright 2015
+				Copyright 2017
 			</div>
 		</div>
   	</div>
