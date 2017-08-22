@@ -64,7 +64,7 @@
 								</tr>
 								<tr>
 									<td valign="top">Address:</td>
-									<td align="right">540 Thompson Drive Unit B<br>Cambridge ON<br>N1T 2K8</td>
+									<td align="right">540 Thompson Drive<br />Unit B<br>Cambridge ON<br>N1T 2K8</td>
 								</tr>
 								<tr>
 									<td valign="top">Online:</td>
