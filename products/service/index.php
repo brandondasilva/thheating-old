@@ -63,7 +63,7 @@
 
 					<div class="panel-body">
 						<div class="textbody">
-							T&H provides 24 hour service on heating and cooling.* If your furnace fails, you are experiencing some of your equipment is making too much noise, or your gas appliance is not working correctly, T&amp;H will be ready and willing to service your issue.
+							T&amp;H provides quality service on heating and cooling equipment. If your furnace fails, you are experiencing some of your equipment is making too much noise, or your gas appliance is not working correctly, T&amp;H will be ready and willing to service your issue.
 							<br><br>
 							Be sure to visit the <a href="/about/warranty/">Warranty/Troubleshooting</a> page for information on our warranty and troubleshooting information. This can save time by narrowing down exactly what the issue you are experiencing is.
 						</div>
@@ -88,9 +88,6 @@
 							8 am - 5 pm<br>
 							<br>
 							Email us at our service email (<a href="mailto:service@thheating.ca" target="_blank">service@thheating.ca</a>) for more information or inquiries.<br>
-							<br>
-							<strong>*After Hours</strong><br>
-							Increased Rates<br>
 						</div>
 					</div>
 				</div>

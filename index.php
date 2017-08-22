@@ -36,7 +36,7 @@
 					</div> <!-- End panel heading -->
 					<div class="panel-body">
 						<div class="textbody">
-							T&amp;H Heating and Air Conditioning Inc. is your residential, commercial and service solution for all your heating and cooling needs. Since 1988, T&amp;H has been committed to bringing exceptional service and effective installation to every job site, project, and customers’ homes.<br><br>Our professional and experienced team are prepared to provide assistance, service and expert knowledge on all your HVAC products in your home. Whether your furnace suddenly stops operating in the dead of winter or you are in need of a cooling solution in the summer, T&amp;H Heating and Air is prepared to keep your indoor climate comfortable.
+							T&amp;H Heating and Air Conditioning Inc. is your residential, commercial and service solution for all your heating and cooling needs. Since 1988, T&amp;H has been committed to bringing exceptional service and effective installation to every job site, project, and customer homes.<br><br>Our professional and experienced team are prepared to provide assistance, service and expert knowledge on all your HVAC products in your home. Whether your furnace suddenly stops operating in the dead of winter or you are in need of a cooling solution in the summer, T&amp;H Heating and Air is prepared to keep your indoor climate comfortable.
 						</div>
 					</div> <!-- End panel body -->
 				</div> <!-- End panel -->
@@ -63,16 +63,14 @@
 									<td align="right"><a href="mailto:sales@thheating.ca">sales@thheating.ca</a></td>
 								</tr>
 								<tr>
-									<td>Invoices:</td>
-									<td align="right"><a href="mailto:invoices@thheating.ca">invoices@thheating.ca</a></td>
-								</tr>
-								<tr>
 									<td valign="top">Address:</td>
-									<td align="right">540 Thompson Drive<br>Cambridge ON<br>N1T 2K8</td>
+									<td align="right">540 Thompson Drive Unit B<br>Cambridge ON<br>N1T 2K8</td>
 								</tr>
 								<tr>
 									<td valign="top">Online:</td>
-									<td align="right"><a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?">LinkedIn</a></td>
+									<td align="right"><a href="https://www.facebook.com/thheating/" target="_blank">Facebook</a></td>
+                  <td align="right"><a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?" target="_blank">LinkedIn</a></td>
+                  <td align="right"><a href="http:/www.twitter.com/thheating" target="_blank">Twitter</a></td>
 								</tr>
 								</table> <!-- End table -->
 							</font>

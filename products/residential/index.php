@@ -98,16 +98,6 @@
 				</div>
 				</a>
 			</div>
-
-			<!-- LIDAMAC -->
-			<div class="col-md-4">
-				<a href="/products/other/lidamac/">
-				<div class="thumbnail">
-					<!-- INSERT IMAGE HERE -->
-					<img src="/images/other/lidamac/lidamac.png">
-				</div>
-				</a>
-			</div>
 		</div>
 	</div> <!-- End container -->
 

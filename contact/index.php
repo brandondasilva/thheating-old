@@ -44,16 +44,14 @@
                   <td align="right"><a href="mailto:sales@thheating.ca">sales@thheating.ca</a></td>
                 </tr>
                 <tr>
-                  <td>Invoices:</td>
-                  <td align="right"><a href="mailto:thheating.invoices@gmail.com">invoices@thheating.ca</a></td>
-                </tr>
-                <tr>
                   <td valign="top">Address:</td>
-                  <td align="right">540 Thompson Drive<br>Cambridge ON<br>N1T 2K8</td>
+                  <td align="right">540 Thompson Drive Unit B<br>Cambridge ON<br>N1T 2K8</td>
                 </tr>
                 <tr>
                   <td valign="top">Online:</td>
-                  <td align="right"><a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?">LinkedIn</a></td>
+                  <td align="right"><a href="https://www.facebook.com/thheating/" target="_blank">Facebook</a></td>
+                  <td align="right"><a href="http://www.linkedin.com/company/t&h-heating-and-air-conditioning-inc-?" target="_blank">LinkedIn</a></td>
+                  <td align="right"><a href="http:/www.twitter.com/thheating" target="_blank">Twitter</a></td>
                 </tr>
                 </table> <!-- End table -->
               </font>
