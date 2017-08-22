@@ -31,7 +31,6 @@
 			</div>
 			<div class="textbody2">
 				<a href="/equipment/information/">Equipment Information</a><br>
-				<a href="/equipment/forsale">Equipment For Sale</a>
 			</div>
 			<div class="spacer10"></div>
 			<div class="textbody">

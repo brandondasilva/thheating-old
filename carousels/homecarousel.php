@@ -37,21 +37,6 @@
         </div> <!-- end centering -->
       </div> <!-- end slide 1 caption -->
     </div> <!-- end item -->
-
-    <!-- THIRD IMAGE -->
-    <div class="item" id="slide3">
-      <div class="center">
-        <div class="carousel-caption">
-          <div class="other-header2">Equipment For Sale</div>
-          <div class="textbody2">
-            From HVAC equipment to office supplies, T&amp;H periodically has a variety of things for sale. Please click the button below for a list of everything we have for sale.
-            <div class="spacer10"></div>
-            <a href="/equipment/forsale/"><button type="button" class="btn btn-default">See More</button></a>
-            <div class="spacer10"></div>
-          </div>
-        </div>
-      </div>
-    </div>
   </div> <!-- end carousel slides -->
 
   <!-- Controls -->
